@@ -21,7 +21,7 @@ Neste projeto fui capaz de:
 
   * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
 
-# STATUS DO PROJETO: Finalizado
+### STATUS DO PROJETO: Finalizado
 
 # Instruções para abrir o projeto no seu computador
 
