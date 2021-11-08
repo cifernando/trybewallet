@@ -2,6 +2,8 @@
 
 Essa é uma aplicação que gerencia despesas, nela você pode adicionar valores, descrições e fazer a conversão em tempo real através de uma API do awesomeapi API de Cotações para realizar a busca de câmbio de moedas.
 
+Link para a aplicação: https://trybewallet-taupe.vercel.app/
+
 Aqui tem um exemplo em imagem da aplicação funcionando:
 
 ![React App - Google Chrome 2021-11-04 13-24-58](https://user-images.githubusercontent.com/84880811/140509819-eb678480-fff2-43b1-ab4b-11959c97c1eb.gif)
